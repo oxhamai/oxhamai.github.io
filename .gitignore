@@ -1,3 +1,12 @@
+.Trashes
+.VolumeIcon.icns
+
+# macOS-specific settings and logs
+*.swp
+*.lock
+*.log
+*.tmp
+
 .obsidian/
 .DS_Store
 
