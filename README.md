@@ -1,1 +1,1 @@
-[jcensus](https://oxhamai.github.io/jcensus)
+[Japan Census Project](./jcensus)
