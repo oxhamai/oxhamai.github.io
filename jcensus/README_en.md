@@ -39,6 +39,8 @@ And this is how it turned out.
 ## - Visualized Output -
 ![](img/question.webp)
 
-## Visit here for the result: https://oxhamai.github.io/jpcensus/
+## Visit here for the result: [MAP](./map.md)
 
 This was so much fun! It helped me apply what I learned over the summer in computer science and you can try too.
+
+[JAPANESE](./README.md)
